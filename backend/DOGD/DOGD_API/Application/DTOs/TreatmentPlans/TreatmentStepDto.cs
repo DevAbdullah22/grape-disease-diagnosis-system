@@ -1,0 +1,18 @@
+﻿namespace DOGD_API.Application.DTOs.TreatmentPlans
+{
+    public class TreatmentStepDto
+    {
+        public int StepOrder { get; set; }
+
+        public string PesticideName { get; set; }
+        public string ChemicalGroup { get; set; }
+
+        public string? PesticideImageUrl { get; set; }
+
+        public string DosageInstructions { get; set; }
+        public string MixQuantityAndType { get; set; }
+        public string SafetyInfo { get; set; }
+        public string? ImportantNotes { get; set; }
+
+    }
+}

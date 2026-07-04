@@ -1,0 +1,58 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+grape-ai/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+*.p12
+
+# Runtime files
+uploads/
+tmp/
+temp/
+logs/
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Machine-learning artifacts
+model_AI/*.pt
+model_AI/*.pth
+model_AI/*.onnx
+model_AI/*.engine
+model_AI/*.tflite
+runs/
+weights/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

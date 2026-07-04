@@ -1,0 +1,10 @@
+@import "./styles/globals.css";
+
+/* Minimal fallbacks for non-Tailwind consumers (keeps Vite from showing
+   completely unstyled pages while Tailwind is installing). These are safe
+   and intentionally small — main styles live in `globals.css`. */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}

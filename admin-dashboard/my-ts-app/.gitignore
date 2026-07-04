@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Test and coverage output
+coverage/
+*.lcov
+.nyc_output/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+
+# Service account credentials
+*service-account*.json
+*serviceAccount*.json
+*firebase-adminsdk*.json
+google-credentials*.json
+credentials*.json
+secrets*.json
+*.pem
+*.key
+*.p12
+
+# Caches and generated metadata
+.vite/
+.vitest/
+.eslintcache
+*.tsbuildinfo
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+GEMINI.md
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local AI/editor prompt files
+.github/prompts/
