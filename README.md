@@ -46,6 +46,7 @@ AI-Powered Mobile Platform for Grape Disease Diagnosis and Treatment Management
   - [🖥️ Admin Dashboard](#admin-dashboard)
 - [📋 Documentation](#documentation)
 - [📸 Screenshots](#screenshots)
+- [🎥 Project Demonstration](#project-demonstration)
 
 ---
 
@@ -419,3 +420,13 @@ Full requirements analysis and system modeling (use cases, diagrams, and specifi
 Full walkthrough of the mobile app and admin dashboard screens.
 
 📄 [View Screenshots (PDF)](https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2FDevAbdullah22%2Fgrape-disease-diagnosis-system%2Fmain%2Fdocs%2Fscreenshots%2Fscreenshots.pdf&embedded=true)
+
+---
+
+<a id="project-demonstration"></a>
+
+## 🎥 Project Demonstration
+
+The following video demonstrates the complete workflow of the Smart Grape Disease Diagnosis System, including disease diagnosis, treatment recommendations, weather monitoring, notifications, and the administration dashboard.
+
+▶️ **Watch Demo:** https://youtu.be/ZrFDCFAgQnM
